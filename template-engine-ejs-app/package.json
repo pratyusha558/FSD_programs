@@ -1,0 +1,20 @@
+{
+  "name": "template-engine-ejs-app",
+  "version": "1.0.0",
+  "description": "Template Engine EJS App\r A server-rendered product CRUD application built with Express, EJS, and MongoDB using Mongoose.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.2"
+  },
+  "devDependencies": {}
+}
